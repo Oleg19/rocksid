@@ -20,8 +20,8 @@ return [
         'jquery' => [
         ],
         'bootstrap' => [
-           // 'location' => 'local',
-           // 'theme' => 'cosmo',
+            'location' => 'local',
+            'theme' => 'cosmo',
         ],
     ],
 ];
