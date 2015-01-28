@@ -7,8 +7,8 @@ return [
     '///Login' => [
         'name' => 'Login block'
     ],
-    /*'//Layouts/images/' => [
+    '/Layouts/images/' => [
         'name' => 'Фото Сидорова',
         'desc' => 'Выводит фото в блок'
-    ],*/
+    ],
 ];
